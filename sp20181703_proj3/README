@@ -1,0 +1,34 @@
+20181703_HwangDongJun_sp_hw1
+
+
+you can compile this program by command "make", "make all"
+
+you can clean the .o file and execution file by command "make clean"
+
+you can execute program by command "./20181703.out"
+
+you can quit the program by command "quit", "q"
+
+
+
+FILE
+==============
+20181703.c
+20181703.h
+change_to_dec.c
+dir.c
+dump.c
+edit_dump.c
+history.c
+opcode_list.c
+opcode_search.c
+assemble_pass_1.c
+assemble_pass_2.c
+free.c
+symbol.c
+type.c
+linking_pass_1.c
+linking_pass_2.c
+run.c
+README
+==============
